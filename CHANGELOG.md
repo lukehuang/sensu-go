@@ -6,6 +6,8 @@ and this project adheres to [Semantic
 Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Added
+- Support for managing mutators via sensuctl.
 
 ## [2.0.0-nightly.1] - 2018-03-07
 ### Added
